@@ -1,5 +1,5 @@
-###<h1 align="center">Hi 👋, I'm Ellidan</h1>
-<h3 align="center">salam</h3>
+<h1 align="center">Hi 👋, I'm Ellidan</h1>
+<h3 align="center">Depuis que je suis enfant, j'aime l'informatique et l'électronique. J'essaie toujours de concevoir des choses avec mon point de vue unique. J'aime aussi créer des choses qui peuvent être utiles aux autres. J'ai commencé à coder depuis que je suis au lycée. La programmation est un art pour moi.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
