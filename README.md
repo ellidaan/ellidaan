@@ -12,6 +12,5 @@
 
 
 
-
- <script src="https://tryhackme.com/badge/1582049"></script>
+https://tryhackme.com/badge/1582049
 
