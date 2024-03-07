@@ -13,5 +13,5 @@
 
 
 
-![Image Alt Text](https://tryhackme.com/badge/1582049)  
+ <script src="https://tryhackme.com/badge/1582049"></script>
 
