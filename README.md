@@ -1,7 +1,1 @@
- <img src="https://tryhackme-badges.s3.amazonaws.com/elone.png" alt="TryHackMe">
-
-
-
-
-
-
+![Badge TryHackMe](https://tryhackme.com/badge/1582049)
