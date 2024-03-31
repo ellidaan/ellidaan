@@ -1,4 +1,9 @@
- <img src="https://tryhackme-badges.s3.amazonaws.com/elone.png" alt="TryHackMe">
+### Badge TryHackMe
+
+Pour afficher votre badge TryHackMe sur GitHub, ajoutez le code suivant dans votre fichier README :
+
+```html
+<script src="https://tryhackme.com/badge/1582049"></script>
 
  repositories vers mes [CTF](https://github.com/ellidaan/Tryhackme/tree/main)
 
