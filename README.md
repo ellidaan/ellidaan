@@ -1,6 +1,6 @@
  <img src="https://tryhackme-badges.s3.amazonaws.com/elone.png" alt="TryHackMe">
 
- repo vers mes CTF : [CTF](https://github.com/ellidaan/Tryhackme/tree/main)
+ repositories vers mes CTF : [CTF](https://github.com/ellidaan/Tryhackme/tree/main)
 
 
 
